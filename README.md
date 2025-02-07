@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm WebDiv!  
+I'm a **Web Developer** and **Mobile App Developer** with **8 years of experience**.  
+I have worked as a **Team Lead for 6 years** and have **5 years of experience in UX (User Experience)**.  
 
-<!--
-**webdiv1179/webdiv1179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills:
+✅ **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap  
+✅ **Back-End:** PHP, Laravel, MySQL  
+✅ **APIs & SEO Optimization**  
+✅ **Database Development with MySQL**  
+✅ **Team Management & Project Coordination**  
 
-Here are some ideas to get you started:
+## 🔗 My GitHub Profile:
+[GitHub - webdiv1179](https://github.com/webdiv1179)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Previous Projects:
+🍕 **PizzaCoo**  
+🌍 **Turkish Marketer**  
+🛒 **Bestellen Elkhawas**  
+🔥 **WebDiv**  
+
+## 📄 Resume:
+[View My CV](#)  
