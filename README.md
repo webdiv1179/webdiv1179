@@ -6,8 +6,8 @@
 
 
 # 👋 Hello, I'm WebDiv!  
-I'm a **Web Developer** and **Mobile App Developer** with **8 years of experience**.  
-I have worked as a **Team Lead for 6 years** and have **5 years of experience in UX (User Experience)**.  
+I'm a **Web Developer** with **6 years of experience**.  
+I have worked as a **Team Lead for 5 years** and have **3 years of experience in UX (User Experience)**.  
 
 ## 🚀 Skills:
 ✅ **Front-End:** HTML5, CSS3, JavaScript, jQuery, Bootstrap  
@@ -21,7 +21,6 @@ I have worked as a **Team Lead for 6 years** and have **5 years of experience in
 
 ## 🚀 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![API](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
