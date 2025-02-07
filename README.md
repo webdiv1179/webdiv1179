@@ -13,10 +13,10 @@ I have worked as a **Team Lead for 6 years** and have **5 years of experience in
 [GitHub - webdiv1179](https://github.com/webdiv1179)  
 
 ## 🌟 My Previous Projects:
-🍕 **PizzaCoo**  
-🌍 **Turkish Marketer**  
-🛒 **Bestellen Elkhawas**  
-🔥 **WebDiv**  
+🍕 [**PizzaCoo**](https://pizzacoo.net/)  
+🌍 [**Turkish Marketer**](https://turkishmarketer.com/)  
+🛒 [**Bestellen Elkhawas**](http://bestellen.elkhawas.de/)  
+🔥 [**WebDiv**](https://webdiv.net/)  
 
 ## 📄 Resume:
-[View My CV](#)  
+[View My CV](https://gazainsan.github.io/mcv.com/?fullname=asdas&email=sadasd%40gmail.com&message=asdasd#)  
