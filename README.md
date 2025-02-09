@@ -6,8 +6,7 @@
 
 
 # 👋 Hello, I'm WebDiv!  
-I'm a **Web Developer** with **6 years of experience**.  
-I have worked as a **Team Lead for 5 years** and have **3 years of experience in UX (User Experience)**. 
+I am an   **experienced Web Developer** with **over 6 years of industry expertise**, specializing in building high-quality, scalable web applications. Throughout my career, **I have demonstrated strong leadership abilities**, having spent 5 years in a Team Lead position where I successfully managed and mentored development teams to deliver innovative solutions. In addition to my development background, I bring 3 years of experience in User Experience (UX) design, focusing on creating intuitive and engaging interfaces that prioritize user satisfaction and functionality. My skills blend technical proficiency with a deep understanding of user-centered design principles, ensuring that both the front-end and back-end of applications align with business goals and user needs.
 
 ## 📬 Contact Me
 
