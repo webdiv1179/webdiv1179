@@ -26,7 +26,8 @@ Feel free to reach out or check out my other work!
 ✅ **Team Management & Project Coordination**  
 
 ## 🔥 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdiv1179&layout=compact&theme=radical&hide=html,css&langs_count=6&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdiv1179&layout=compact&theme=radical&hide=html,css&langs_count=6&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webdiv1179&layout=compact&theme=radical&hide=html,css&langs_count=6&hide_border=true)
 
 ## 🚀 Tech Stack  
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
