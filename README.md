@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdiv1179&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=webdiv1179&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=webdiv1179&theme=radical&no-frame=true&margin-w=15)  
@@ -26,7 +26,7 @@ Feel free to reach out or check out my other work!
 ✅ **Team Management & Project Coordination**  
 
 ## 🔥 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdiv1179&layout=compact&theme=radical&langs_count=10&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdiv1179&layout=compact&theme=radical&hide=html,css&langs_count=6&hide_border=true)
 
 ## 🚀 Tech Stack  
 - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
