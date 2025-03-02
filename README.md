@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=weblayerco&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=webdiv1179&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdiv1179&theme=radical)
 
