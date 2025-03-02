@@ -3,6 +3,7 @@
 
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=webdiv1179&theme=radical&no-frame=true&margin-w=15)  
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdiv1179&theme=radical)
 
 
 # 👋 Hello, I'm WebDiv!  
