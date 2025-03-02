@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=webdiv1179&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdiv1179&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=webdiv1179&theme=radical&no-frame=true&margin-w=15)  
