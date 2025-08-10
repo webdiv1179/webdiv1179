@@ -44,7 +44,7 @@ Feel free to reach out or check out my other work!
 [GitHub - webdiv1179](https://github.com/webdiv1179)  
 
 ## 🌟 My Previous Projects:
-🍕 [**PizzaCoo**](https://pizzacoo.net/)  
+🍕 [**PizzaCoo**]([https://pizzacoo.net/](https://pizzacoo.com.tr/))  
 🌍 [**Turkish Marketer**](https://turkishmarketer.com/)  
 🛒 [**Bestellen Elkhawas**](http://bestellen.elkhawas.de/)  
 🔥 [**WebDiv**](https://webdiv.net/)  
