@@ -49,6 +49,8 @@ Feel free to reach out or check out my other work!
 🌍 [**Turkish Marketer**](https://turkishmarketer.com/)  
 🛒 [**Bestellen Elkhawas**](http://bestellen.elkhawas.de/)  
 🔥 [**WebDiv**](https://webdiv.net/)  
+🔥 [**Drosly**](https://drosly.com/)  
+🔥 [**Fxb**](https://fxb.ai/) 
 
 ## 📄 Resume:
 [View My CV](https://gazainsan.github.io/mcv.com/?fullname=asdas&email=sadasd%40gmail.com&message=asdasd#)  
